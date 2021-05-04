@@ -24,7 +24,7 @@ group :lint do
 end
 
 group :development do
-  gem "amazing_print"
+  gem "awesome_print"
   gem "break"
   gem "faraday"
   gem "faraday_middleware"
